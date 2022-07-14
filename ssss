@@ -1,0 +1,23 @@
+[33mcommit 56b6ac8f51c4cdca17d2d26bc233bd48708acc97[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Murtaza <m.ashraf@unswalumni.com>
+Date:   Thu Jul 14 20:12:56 2022 +1000
+
+    update metadata
+
+[33mcommit a7b529ac7345d6edcc727671461617a6f9e6b23a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Taimoor Sattar <taimoorsattar7@gmail.com>
+Date:   Sun Jul 3 11:31:47 2022 -0700
+
+    Update README.md
+
+[33mcommit 02e6ee2c05cca541ee58351a852505d8b03048f1[m
+Author: Taimoor Sattar <taimoorsattar7@gmail.com>
+Date:   Sun Jul 3 17:21:05 2022 +0000
+
+    update graphql query
+
+[33mcommit 6fb4f01959fed8bcd295a793d895fdd51d2b3c66[m
+Author: Taimoor Sattar <taimoorsattar7@gmail.com>
+Date:   Fri Dec 24 09:46:27 2021 -0800
+
+    initial commit
