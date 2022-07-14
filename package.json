@@ -3,7 +3,7 @@
   "private": true,
   "description": "Gatsby stater template",
   "version": "0.1.0",
-  "author": "Taimoor Sattar",
+  "author": "Murtaza Ashraf",
   "dependencies": {
     "gatsby": "^4.3.0",
     "gatsby-link": "^4.3.0",
